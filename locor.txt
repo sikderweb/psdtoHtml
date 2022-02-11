@@ -1,0 +1,13 @@
+navbar_bg: #e4e4e4;
+Header_color:#4e4e4e;
+text_color:#616161;
+navbar_hover_color:#1abb9c;
+slider_btn_color:#3f8dbf;
+service_1_bg:#9d9abf;
+service_2_bg:#d2514b;
+service_3_bg:#66a3c6
+service_4_bg:#e8c04f;
+qoute_bg:#efefef;
+footer_header:#6c6c6c;
+footer_bg:#1d1d1d;
+footer_text:#cacaca;
